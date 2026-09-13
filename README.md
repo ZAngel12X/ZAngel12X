@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop" height="200" style="border-radius: 10px;"/>
+  <img src="Angel%20Montero%20Banner.png" alt="Angel Montero Banner" width="100%" />
 </p>
 <br>
 
@@ -69,8 +69,7 @@
 <h3 align="center">📊 Git Activeness</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAngel12X&show_icons=true&theme=dark&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAngel12X&layout=compact&theme=dark&hide_border=true" alt="langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAngel12X&theme=react-dark" alt="Git Activity Graph" width="100%" />
 </p>
 
 <hr>
