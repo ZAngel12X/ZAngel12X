@@ -71,10 +71,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAngel12X&theme=react-dark" alt="Git Activity Graph" width="100%" />
 </p>
-
-<hr>
-
-<h3 align="center">🏆 Git Profile Trophies</h3>
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ZAngel12X&theme=darkhub&no-bg=true" alt="trophies" />
 </p>
