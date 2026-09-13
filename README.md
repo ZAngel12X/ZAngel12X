@@ -25,7 +25,7 @@
 <p align="center">
   <em>
     Hello, I am Angel Montero, a Systems Engineering student from <a href="https://www.ulatina.ac.cr/"> <b>Universidad Latina de Costa Rica</b></a>. <br>
-    <b>A passionate developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> currently working on freelance projects (including material cut optimization algorithms and aerodynamic simulators paired with wind tunnels), <br>
+    <b>A passionate developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> currently working on freelance projects (optimization algorithms and aerodynamic simulators), <br>
     actively expanding my skills into <b>Cybersecurity, Ethical Hacking, and Network Auditing</b>.
   </em> 
 </p>
